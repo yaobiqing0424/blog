@@ -2,6 +2,8 @@
 
 
 ## pythonbrew 
+
+* [pythonbrew & virtaulenv](http://codingnow.cn/language/438.html)
 ==========================
 安装
 首先你得装一个 python 吧，这里只在 Unix-like 系统下进行， Windows 上没有试过。你有两种简单的安装方法，easy_install:
